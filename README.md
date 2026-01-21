@@ -93,17 +93,30 @@ One-Line Admission provides:
 
 ### Step 1: Database Setup
 
-1. **Open phpMyAdmin** or MySQL command line
-2. **Create database:**
+
+
+1. Go to the **./database** directory in the terminal and run
+
+   ``````
+   docker compose up -d
+   ``````
+
+2. **Open phpMyAdmin** or MySQL command line
+
+3. **Create database:**
+
    ```sql
    CREATE DATABASE onelinee;
    ```
-3. **Import schema:**
+
+4. **Import schema:**
+
    - Go to phpMyAdmin → Select onelinee database
    - Click "Import" tab
    - Select database/01_create_schema.sql
    - Click "Go"
-4. **Import test data:**
+
+5. **Import test data:**
    - Still in phpMyAdmin
    - Click "Import" tab again
    - Select database/02_test_data.sql

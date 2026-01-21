@@ -6,7 +6,7 @@ A centralized university admission management system built for Bangladesh, simpl
 
 ## Quick Links
 
-- **Video Demo:** [YouTube](https://www.youtube.com/watch?v=xYi9jJNpCuY)
+- **Video Demo:** [YouTube](https://youtu.be/sKk10J_Emh0)
 
 ---
 
@@ -430,7 +430,7 @@ admin_logs (Admin Actions)
 
 ## Video Demo
 
-Full Project Walkthrough: [Watch on YouTube](https://www.youtube.com/watch?v=xYi9jJNpCuY)
+Full Project Walkthrough: [Watch on YouTube](https://youtu.be/sKk10J_Emh0)
 
 The video demonstrates:
 - Landing page and features

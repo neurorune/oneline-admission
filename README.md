@@ -14,7 +14,7 @@ A centralized university admission management system built for Bangladesh, simpl
 
 ### Problem Statement
 Students in Bangladesh face several challenges:
-- Must visit 5-10 different university websites
+- Visit 5-10 different university websites
 - Re-enter same information repeatedly
 - Risk missing application deadlines
 - No centralized tracking of applications
